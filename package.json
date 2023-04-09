@@ -1,0 +1,21 @@
+{
+  "name": "node-text-adventure",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A text adventure made in node.js",
+  "main": "index.js",
+  "scripts": {
+    "play": "node index.js"
+  },
+  "keywords": [
+    "game",
+    "adventure",
+    "node"
+  ],
+  "author": "Justice",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "inquirer": "^9.1.5"
+  }
+}
